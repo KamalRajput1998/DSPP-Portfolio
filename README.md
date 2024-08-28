@@ -1,20 +1,24 @@
-# Data Scientist
+# Data Analyst / Developer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Project
+**Classification of images using the MNIST dataset**
+- Evaluated the performance of ML models: logistic regression, SVMs & Random Forest to classify images from the MNIST dataset. 
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Prediction of O negative blood stock**
+- Used the Prophet library to perform univariate time series forecasting to predict inventory levels for O negative blood stock.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+
+**Electronic Blood Requesting System**
+- Used the Prophet library to perform univariate time series forecasting to predict inventory levels for O negative blood stock.
+
+**Outpatient Medication System**
+- Developed a real-time blood requesting system using Python & Vanilla JavaScript, Fetch API (AJAX) was used to provide real-time CRUD functionality.
+
+**Cath Lab Scheduling System**
+- A scheduling system developed using PHP & MySQL to manage STEMI patients for Cardiology.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
