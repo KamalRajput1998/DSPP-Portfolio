@@ -1,7 +1,6 @@
 # Data Analyst / Developer
 
 #### Technical Skills: Full-stack development, Python, Django, JavaScript, node.js, C#, ASP.NET, SQL, DBA with MS SQL Server, Windows Server Administration, Linux & Git
-#
 
 ## About
 
