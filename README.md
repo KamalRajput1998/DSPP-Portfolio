@@ -34,7 +34,7 @@ https://github.com/KamalRajput1998/Blood-Inventory-Level-Prediction
 https://github.com/KamalRajput1998/Blood-Requesting-Application
 
 **Outpatient Medication System**
-- Developed a medication system to manage anaemic patients, this was developed in Python using the Django framework.
+- Developed a medication system to manage anaemic patients, this was a CRUD based system developed in Python using the Django framework.
 
 https://github.com/KamalRajput1998/Medication-System
 
