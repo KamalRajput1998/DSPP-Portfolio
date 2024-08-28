@@ -29,12 +29,12 @@ https://github.com/KamalRajput1998/Blood-Inventory-Level-Prediction
 ### Software Engineering Projects
 
 **Electronic Blood Requesting System**
-- Used the Prophet library to perform univariate time series forecasting to predict inventory levels for O negative blood stock.
+- Developed a real-time blood requesting system using Python & Vanilla JavaScript, Fetch API (AJAX) was used to provide real-time CRUD functionality.
 
 https://github.com/KamalRajput1998/Blood-Requesting-Application
 
 **Outpatient Medication System**
-- Developed a real-time blood requesting system using Python & Vanilla JavaScript, Fetch API (AJAX) was used to provide real-time CRUD functionality.
+- Developed a medication system to manage anaemic patients, this was developed in Python using the Django framework.
 
 https://github.com/KamalRajput1998/Medication-System
 
